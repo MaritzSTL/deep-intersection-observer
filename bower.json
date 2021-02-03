@@ -4,7 +4,7 @@
   "main": "deep-intersection-observer.html",
   "dependencies": {
     "polymer": "Polymer/polymer#^1.0 || ^2.0",
-    "intersection-observer": "w3c/IntersectionObserver"
+    "intersection-observer": "w3c/IntersectionObserver#main"
   },
   "devDependencies": {
     "iron-demo-helpers": "PolymerElements/iron-demo-helpers#^2.0.0",
